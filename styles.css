@@ -1,0 +1,13 @@
+body {
+  background-color: #aaa;
+}
+
+a {
+    color: #f00;
+    display: block;
+    padding: 10vw 25vw;
+    font-size: xx-large;
+}
+a:hover {
+    color: #0f0;
+}
